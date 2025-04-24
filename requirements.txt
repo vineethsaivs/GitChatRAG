@@ -1,0 +1,9 @@
+streamlit
+pandas
+llama-index
+ollama-python
+torch
+transformers
+gitingest>=0.1.4
+python-dotenv
+-e git+https://github.com/cyclotruc/gitingest.git#egg=gitingest
